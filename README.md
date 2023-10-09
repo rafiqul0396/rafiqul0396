@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm MD RAFIQUL ISLAM</h1>
-<h3 align="center"> Backend developer from India</h3>
+<h3 align="center"> Jr. Data Scientist from IBS</h3>
 <img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/0b/13/d4/0b13d4853679e37ec02d9289377fc109.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiqul0396&label=Profile%20views&color=0e75b6&style=flat" alt="rafiqul0396" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [impressico Bussiness Solution](https://www.impressico.com/)
 
-- 🌱 I’m currently learning **Python,Django,Snowflake,pyspark**
+- 🌱 I’m currently learning **Python,Django,pyspark,LLM,LLama2,Langchain**
 
 - 👯 I’m looking to collaborate on [Fundamental](https://github.com/kanmaytacker/fundamentals)
 
